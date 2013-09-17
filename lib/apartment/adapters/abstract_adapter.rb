@@ -199,3 +199,4 @@ module Apartment
     end
   end
 end
+
